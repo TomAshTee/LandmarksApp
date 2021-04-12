@@ -90,8 +90,8 @@
 		D671A207262182ED00775935 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				D671A1F1261CD21E00775935 /* CircleImage.swift */,
 				D671A1E3261CC8DF00775935 /* ContentView.swift */,
+				D671A1F1261CD21E00775935 /* CircleImage.swift */,
 				D671A1F5261CD3E700775935 /* MapView.swift */,
 				D64A6A39262405BE00DE3F3B /* LandmarkRow.swift */,
 				D64A6A3E2624087B00DE3F3B /* LandmarkList.swift */,
