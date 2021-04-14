@@ -22,5 +22,6 @@ struct CircleImage_Previews: PreviewProvider {
     static var previews: some View {
         CircleImage(image: Image("turtlerock"))
             .previewDevice("iPhone 12 mini")
+            .previewLayout(.fixed(width: 300, height: 300))
     }
 }
